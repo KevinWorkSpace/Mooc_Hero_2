@@ -44,4 +44,22 @@ MonoBehaviour:
   - RequestForPickupTimes
   - TaggedPlayer
   - LoadGameScene
+  - AddHP
+  - ConfirmLoad
+  - DisableZombie
+  - EndGame
+  - PlayerReset
+  - PlayZombieAttackAudio
+  - PlayZombieHurtAudio
+  - SetInvincible
+  - SetTeam
+  - SetTime
+  - Shoot
+  - ShootEffect
+  - StartGame
+  - UpdateHP
+  - UpdateScores
+  - ZombieDead
+  - ZombieSetCrazy
+  - ZombieSetNormal
   DisableAutoOpenWizard: 1
